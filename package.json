@@ -9,7 +9,7 @@
   "author": "Sarjak Chawda",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-promise-router": "^4.0.1",
     "mongoose": "^5.9.26",
     "morgan": "^1.10.0"
